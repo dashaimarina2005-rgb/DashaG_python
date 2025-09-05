@@ -149,8 +149,6 @@ import pandas as pd
 
 2. Загрузка данных
 
-<img width="639" height="239" alt="image" src="https://github.com/user-attachments/assets/a566abca-9969-497e-bc24-40af59240dbe" />
-
 python
 try:
     df = pd.read_csv('ncr_ride_bookings.csv')
